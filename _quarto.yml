@@ -1,0 +1,4 @@
+project:
+  title: "Presentation"
+  type: website
+  output-dir: docs

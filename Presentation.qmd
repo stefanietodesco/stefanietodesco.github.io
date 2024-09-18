@@ -1,0 +1,20 @@
+---
+title: "Presentation"
+format: revealjs
+editor: visual
+---
+
+# Slide 1
+HI this is slide 1 
+
+```{r code_chunk}
+x <- "hi"
+print(x)
+```
+
+# Slide 2
+Hi this is slide 2
+
+# Slide 3
+Hi this is slide 3
+---
